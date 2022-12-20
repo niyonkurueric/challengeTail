@@ -1,0 +1,27 @@
+.container {
+  margin: auto;
+  width: 100%;
+}
+.container img {
+  width: 60px;
+  height: 68px;
+}
+.container h1 {
+  width: 60px;
+  height: 68px;
+}
+.container p {
+  width: 396px;
+  height: 57px;
+  left: 558px;
+  top: 364px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+
+  color: #000000;
+}
